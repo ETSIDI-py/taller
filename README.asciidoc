@@ -31,8 +31,7 @@ cualquier otro en el que te sientas cómodo.
 minutes]
 . https://engineering.purdue.edu/~milind/datascience/2018spring/notes/lecture-2.pdf[Python
 for C programmers]
-. Información varia
-https://github.com/isi-ies-group/python-info[https://github.com/isi-ies-group/python-info]
+. https://github.com/isi-ies-group/python-info[Info Python]
 
 === Ejemplos proyectos
 
