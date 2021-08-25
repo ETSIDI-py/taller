@@ -1,20 +1,16 @@
-# ETSIDI.py
-![alt text]("logo.png" "Logo")
+![alt text](logo.png "Logo")
 
 | Plataforma  | Pizarra |
 | ----------- | ----------- |
 | [Google Colab](https://colab.research.google.com/) para las lecciones| [Board](https://board.net/p/etsidi.py) para compartir código|
+
+# ETSIDI.py
 
 ## Instrucciones pre-taller
 1. Crear repositorio para el proyecto, p. ej. en [GitHub](https://github.com/) o cualquier otro en el que te sientas cómodo.
 2. Instalar un cliente git, p. ej. [GitHub Desktop](https://desktop.github.com/) o cualquier otro en el que te sientas cómodo.
 3. Instalar entorno Python mediante [miniconda](https://github.com/isi-ies-group/python-info#miniconda) o cualquier otro en el que te sientas cómodo.
 4. Instalar algún IDE, p. ej. [Spyder](https://github.com/isi-ies-group/python-info#ide---spyder) o cualquier otro en el que te sientas cómodo.
-
----
-Plataforma: [Google Colab](https://colab.research.google.com/) para las lecciones
-Pizarra: [Board](https://board.net/p/etsidi.py) para compartir código
----
 
 ## Recursos taller
 
