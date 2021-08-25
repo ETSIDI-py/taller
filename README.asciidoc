@@ -44,9 +44,12 @@ https://inventwithpython.com/#automate[https://inventwithpython.com/#automate]
 . https://github.com/python-telegram-bot/python-telegram-bot[https://github.com/python-telegram-bot/python-telegram-bot]
 . http://norvig.com/sudoku.html[http://norvig.com/sudoku.html]
 . https://github.com/geekcomputers/Python[https://github.com/geekcomputers/Python]
+
+==== Otros proyectos
+
 . https://helios.ies.upm.es/[Web estacion meteo IES]
-. Rellena hojas horas investigador UPM
-. link:[Reparte grupos laboratorio ETSIDI]
+. https://github.com/isi-ies-group/rellena-horas-upm[Rellena hojas horas investigador UPM]
+. https://github.com/rubennj/listas-grupos-lab[Reparte grupos laboratorio ETSIDI]
 
 === Recursos implantación
 
