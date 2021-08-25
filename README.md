@@ -3,7 +3,7 @@
 ## Instrucciones pre-taller
 * Crear repositorio para el proyecto, p. ej. en [GitHub](https://github.com/) o cualquier otro en el que te sientas cómodo.
 * Instalar un cliente git, p. ej. [GitHub Desktop](https://desktop.github.com/) o cualquier otro en el que te sientas cómodo.
-* Instalar Python mediante [miniconda](https://github.com/isi-ies-group/python-info#miniconda) o cualquier otro en el que te sientas cómodo.
+* Instalar entorno Python mediante [miniconda](https://github.com/isi-ies-group/python-info#miniconda) o cualquier otro en el que te sientas cómodo.
 * Instalar algún IDE, p. ej. [Spyder](https://github.com/isi-ies-group/python-info#ide---spyder) o cualquier otro en el que te sientas cómodo.
 
 ## Recursos taller
