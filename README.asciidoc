@@ -35,6 +35,8 @@ for C programmers]
 
 === Ejemplos proyectos
 
+Usar APIs: . https://github.com/isi-ies-group/python-info#api
+
 . https://www.seraph.to/python-wikipedia-2019.html#python-wikipedia-2019%20#Wikipedia%20#API%20#Python[https://www.seraph.to/python-wikipedia-2019.html#python-wikipedia-2019%20#Wikipedia%20#API%20#Python]
 . Varios libros con proyectitos interesantes (gratuitos)
 https://inventwithpython.com/#automate[https://inventwithpython.com/#automate]
@@ -43,6 +45,12 @@ https://inventwithpython.com/#automate[https://inventwithpython.com/#automate]
 . https://github.com/python-telegram-bot/python-telegram-bot[https://github.com/python-telegram-bot/python-telegram-bot]
 . http://norvig.com/sudoku.html[http://norvig.com/sudoku.html]
 . https://github.com/geekcomputers/Python[https://github.com/geekcomputers/Python]
+. https://github.com/asweigart/sushigoroundbot/[Bot jugador on-line]
+- https://github.com/ardamavi/Game-Bot[Bot que aprende a jugar]
+. https://realpython.com/how-to-make-a-discord-bot-python/[https://realpython.com/how-to-make-a-discord-bot-python/]
+. https://lornajane.net/posts/2020/make-thumbnails-of-pdf-pages-with-imagemagick[Genera thumbnails de pdf]
+
+Usar web-gui: . https://github.com/isi-ies-group/python-info#streamlit
 
 ==== Otros proyectos
 
