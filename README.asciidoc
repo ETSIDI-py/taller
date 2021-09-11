@@ -12,7 +12,7 @@ image:logo.png[alt text,title="Logo"]
 |===
 
 == Instrucciones pre-taller
-. Crear repositorio para el proyecto, p. ej. en https://github.com/[GitHub] o cualquier otro con el que te sientas cómod@.
+. Crear cuenta y un repositorio para el proyecto, p. ej. en https://github.com/[GitHub] o cualquier otro con el que te sientas cómod@.
 . Instalar un cliente git, p. ej. https://desktop.github.com/[GitHub Desktop] o cualquier otro con el que te sientas cómod@.
 . Instalar un entorno Python mediante https://github.com/isi-ies-group/python-info#miniconda[miniconda] o cualquier otro con el que te sientas cómod@.
 . Instalar algún IDE, p. ej. https://github.com/isi-ies-group/python-info#ide---spyder[Spyder] o cualquier otro con el que te sientas cómod@.
