@@ -1,66 +1,72 @@
 image:logo.png[alt text,title="Logo"]
 
+= ETSIDI.py
+:sectnums:
+
 [cols=",",options="header",]
 |===
-|Plataforma |Pizarra
-|https://colab.research.google.com/[Google Colab] para las lecciones
-|https://board.net/p/etsidi.py[Board] para compartir código
+|Plataforma (para las lecciones)|Pizarra (para compartir código)
+// |https://colab.research.google.com/[Google Colab]
+|https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/master?urlpath=lab/tree/demo[Jupyter] (en servidor remoto)
+|https://board.net/p/etsidi.py[Board]
 |===
 
-[[etsidipy]]
-== ETSIDI.py
-
-=== Instrucciones pre-taller
-
+== Instrucciones pre-taller
 . Crear repositorio para el proyecto, p. ej. en
-https://github.com/[GitHub] o cualquier otro en el que te sientas
-cómod@.
-. Instalar un cliente git, p. ej. https://desktop.github.com/[GitHub
-Desktop] o cualquier otro en el que te sientas cómod@.
-. Instalar entorno Python mediante
-https://github.com/isi-ies-group/python-info#miniconda[miniconda] o
-cualquier otro en el que te sientas cómod@.
-. Instalar algún IDE, p. ej.
-https://github.com/isi-ies-group/python-info#ide---spyder[Spyder] o
-cualquier otro en el que te sientas cómod@.
+https://github.com/[GitHub] o cualquier otro en el que te sientas cómod@.
+. Instalar un cliente git, p. ej. https://desktop.github.com/[GitHub Desktop] o cualquier otro en el que te sientas cómod@.
+. Instalar un entorno Python mediante https://github.com/isi-ies-group/python-info#miniconda[miniconda] o cualquier otro en el que te sientas cómod@.
+. Instalar algún IDE, p. ej. https://github.com/isi-ies-group/python-info#ide---spyder[Spyder] o cualquier otro en el que te sientas cómod@.
 
-=== Recursos taller
-
+////
+== Recursos taller
 . https://realpython.com/python-first-steps/[First steps - Real Python]
 . https://www.stavros.io/tutorials/python/[Tutorial - Learn Python in 10
 minutes]
 . https://engineering.purdue.edu/~milind/datascience/2018spring/notes/lecture-2.pdf[Python
 for C programmers]
 . https://github.com/isi-ies-group/python-info#lenguaje---peculiaridades[Info Python]
+////
+
+== Listados proyectos
+. https://inventwithpython.com/#automate[Varios libros de Python (gratuitos) con proyectitos interesantes]
+. https://github.com/geekcomputers/Python[Lista variada de proyectos]
+. https://streamlit.io/gallery?category=sports-fun[Lista proyectos con web GUI - Streamlit]
 
 === Ejemplos proyectos
-
-Usar APIs: . https://github.com/isi-ies-group/python-info#api
-
-. https://www.seraph.to/python-wikipedia-2019.html#python-wikipedia-2019%20#Wikipedia%20#API%20#Python[https://www.seraph.to/python-wikipedia-2019.html#python-wikipedia-2019%20#Wikipedia%20#API%20#Python]
-. Varios libros con proyectitos interesantes (gratuitos)
-https://inventwithpython.com/#automate[https://inventwithpython.com/#automate]
-. https://programacionpython80889555.wordpress.com/2021/05/04/obteniendo-posicion-de-la-iss-en-tiempo-real-con-python-e-iss-info/[https://programacionpython80889555.wordpress.com/2021/05/04/obteniendo-posicion-de-la-iss-en-tiempo-real-con-python-e-iss-info/]
-* https://api.nasa.gov/[https://api.nasa.gov/]
-. https://github.com/python-telegram-bot/python-telegram-bot[https://github.com/python-telegram-bot/python-telegram-bot]
-. http://norvig.com/sudoku.html[http://norvig.com/sudoku.html]
-. https://github.com/geekcomputers/Python[https://github.com/geekcomputers/Python]
-. https://github.com/asweigart/sushigoroundbot/[Bot jugador on-line]
-- https://github.com/ardamavi/Game-Bot[Bot que aprende a jugar]
-. https://realpython.com/how-to-make-a-discord-bot-python/[https://realpython.com/how-to-make-a-discord-bot-python/]
+. http://norvig.com/sudoku.html[Solucionador de Sudokus]
 . https://lornajane.net/posts/2020/make-thumbnails-of-pdf-pages-with-imagemagick[Genera thumbnails de pdf]
+. https://github.com/Wireframe-Magazine/Wireframe-53/[Crear un juego con pygame]
+. https://github.com/asweigart/PythonStdioGames/[Listado juegos basados en texto]
 
-Usar web-gui: . https://github.com/isi-ies-group/python-info#streamlit
+==== Bots
+. https://github.com/python-telegram-bot/python-telegram-bot[Crear un bot para Telegram]
+. https://realpython.com/how-to-make-a-discord-bot-python/[Crear un bot para Discord]
+. https://github.com/asweigart/sushigoroundbot/[Bot juego on-line]
+. https://github.com/ardamavi/Game-Bot[Bot que aprende a jugar [Machine Learning\]]
 
-==== Otros proyectos
+=== Proyectos usando APIs
+. https://www.seraph.to/python-wikipedia-2019.html#python-wikipedia-2019%20#Wikipedia%20#API%20#Python[Consultar Wikipedia]
+. https://programacionpython80889555.wordpress.com/2021/05/04/obteniendo-posicion-de-la-iss-en-tiempo-real-con-python-e-iss-info/[Conocer posición ISS en tiempo real]
+. https://api.nasa.gov/[NASA API]
 
-. https://helios.ies.upm.es/[Web estacion meteo IES]
+=== Otros proyectos
+. https://github.com/rubennj/Evaluacion_del_recurso_solar_en_un_coche_electrico_fotovoltaico[Uso API GMaps - TFG ETSIDI]
+. https://helios.ies.upm.es/[Web estacion meteo IES - TFG ETSIDI]
 . https://github.com/isi-ies-group/rellena-horas-upm[Rellena hojas horas investigador UPM]
 . https://github.com/rubennj/listas-grupos-lab[Reparte grupos laboratorio ETSIDI]
 
-=== Recursos implantación
+== Herramientas
 
-. https://realpython.com/flask-by-example-part-1-project-setup/[Heroku -
-ejemplo Flask]
-. Streamlit
-. https://realpython.com/python-boto3-aws-s3/[AWS]
+=== APIs
+. https://github.com/isi-ies-group/python-info#api[Uso y listados de APIs]
+
+=== Interfaz gráfica
+. https://pysimplegui.readthedocs.io/en/latest/[PySimpleGUI para escritorio]
+. https://github.com/isi-ies-group/python-info#streamlit[Web-GUI Streamlit]
+. https://kivy.org/[Plataforma para crear apps en móviles Android/iOS]
+. https://github.com/isi-ies-group/python-info#argparse[línea de comnados - CLI]
+
+=== Implantación online
+. https://realpython.com/flask-by-example-part-1-project-setup/[Heroku - ejemplo Flask]
+. https://streamlit.io/[Streamlit]
