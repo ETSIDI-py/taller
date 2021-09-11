@@ -14,15 +14,15 @@ image:logo.png[alt text,title="Logo"]
 
 . Crear repositorio para el proyecto, p. ej. en
 https://github.com/[GitHub] o cualquier otro en el que te sientas
-cómodo.
+cómod@.
 . Instalar un cliente git, p. ej. https://desktop.github.com/[GitHub
-Desktop] o cualquier otro en el que te sientas cómodo.
+Desktop] o cualquier otro en el que te sientas cómod@.
 . Instalar entorno Python mediante
 https://github.com/isi-ies-group/python-info#miniconda[miniconda] o
-cualquier otro en el que te sientas cómodo.
+cualquier otro en el que te sientas cómod@.
 . Instalar algún IDE, p. ej.
 https://github.com/isi-ies-group/python-info#ide---spyder[Spyder] o
-cualquier otro en el que te sientas cómodo.
+cualquier otro en el que te sientas cómod@.
 
 === Recursos taller
 
