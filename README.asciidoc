@@ -27,7 +27,7 @@ for C programmers]
 . https://github.com/isi-ies-group/python-info#lenguaje---peculiaridades[Info Python]
 ////
 
-== Listados proyectos ejemplos
+== Listados proyectos ejemplo
 . https://inventwithpython.com/#automate[Varios libros de Python (gratuitos) con proyectitos interesantes]
 . https://github.com/geekcomputers/Python[Lista variada de proyectos]
 . https://streamlit.io/gallery?category=sports-fun[Lista proyectos con web GUI - Streamlit]
