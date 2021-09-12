@@ -10,7 +10,7 @@ image:logo.png[alt text,title="Logo"]
 |https://board.net/p/etsidi.py[Board]
 |===
 //|Introducción taller
-//|https://mybinder.org/v2/gh/ETSIDI-py/taller/HEAD[Notebook]
+//|https://mybinder.org/v2/gh/ETSIDI-py/taller/HEAD[Intro+Tutorial]
 
 == Instrucciones pre-taller
 . Crear cuenta y un repositorio para el proyecto, p. ej. en https://github.com/[GitHub] o cualquier otro con el que te sientas cómod@.
@@ -65,6 +65,7 @@ for C programmers]
 . https://pysimplegui.readthedocs.io/en/latest/[PySimpleGUI para escritorio]
 . https://github.com/isi-ies-group/python-info#streamlit[Web-GUI Streamlit]
 . https://kivy.org/[Plataforma para crear apps en móviles Android/iOS]
+. https://jupyter.org/[Jupyter notebook: Programación literaria]
 . https://github.com/isi-ies-group/python-info#argparse[línea de comnados - CLI]
 
 === Implantación online
