@@ -6,11 +6,11 @@ image:logo.png[alt text,title="Logo"]
 |===
 |Plataforma (tutorial) |Pizarra (compartir texto y código)
 
-|https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/master?urlpath=lab/tree/demo[Jupyter, window=_blank] (en servidor remoto)
-|https://board.net/p/etsidi.py[Board, window=_blank]
+|https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/master?urlpath=lab/tree/demo[Jupyter] (en servidor remoto)
+|https://board.net/p/etsidi.py[Board]
 |===
 //|Introducción taller
-//|https://mybinder.org/v2/gh/ETSIDI-py/taller/HEAD[Intro+Tutorial, window=_blank]
+//|https://mybinder.org/v2/gh/ETSIDI-py/taller/HEAD[Intro+Tutorial]
 
 == Instrucciones pre-taller
 . Crear cuenta y un repositorio para el proyecto, p. ej. en https://github.com/[GitHub] o cualquier otro con el que te sientas cómod@.
