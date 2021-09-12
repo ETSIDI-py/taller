@@ -4,11 +4,14 @@ image:logo.png[alt text,title="Logo"]
 :sectnums:
 
 |===
-|Plataforma (tutorial) |Pizarra (compartir texto y código)
+|Plataforma (tutorial) |Pizarra (compartir texto y código) |Chuletas
 
 |https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/master?urlpath=lab/tree/demo[Jupyter] (en servidor remoto)
 |https://board.net/p/etsidi.py[Board]
+|link:++python_cheat_sheet by Arianne Colton and Sean Chen.pdf++[Python] +
+link:++python pep8_cheatsheet.pdf++[Estilo código (PEP-8)]
 |===
+
 //|Introducción taller
 //|https://mybinder.org/v2/gh/ETSIDI-py/taller/HEAD[Intro+Tutorial]
 
