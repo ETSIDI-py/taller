@@ -8,7 +8,7 @@ image:logo.png[alt text,title="Logo"]
 
 |https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/master?urlpath=lab/tree/demo[Jupyter] (en servidor remoto)
 |https://board.net/p/etsidi.py[Board]
-|link:++python_cheat_sheet by Arianne Colton and Sean Chen.pdf++[Python] +
+|link:python_cheat_sheet%20%20by%20Arianne%20Colton%20and%20Sean%20Chen.pdf[Python] +
 link:++python pep8_cheatsheet.pdf++[Estilo código (PEP-8)]
 |===
 
