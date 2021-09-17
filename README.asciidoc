@@ -20,7 +20,9 @@ ubicación elegida |Martin A. Reigadas T.
 |Escáner OCR con Tesseract |Pepe Castellanos
 |https://github.com/vuycwneovre/OCR-scanner
 
-| | |
+|Juego gomoku implementado en Discord 
+|Miguel Chen Zheng
+|https://github.com/miguelchenzheng/gomybot
 
 | | |
 
