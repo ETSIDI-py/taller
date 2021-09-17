@@ -84,18 +84,13 @@ Colección de repositorios de algunos proyectos del taller de septiembre 2021
 [width="100%",cols="42%,^33%,>25%",options="header",]
 |===
 |Descrpición |Autor(a) |Enlace
-|Proyecto de mostrar en navegador los datos de posición solar en la
-ubicación elegida |Martin A. Reigadas T.
-|https://github.com/martinrteran/Taller_Python3
+|Proyecto de mostrar en navegador los datos de posición solar en la ubicación elegida |Martin A. Reigadas T. |https://github.com/martinrteran/Taller_Python3
 
-|Intento de Arkanoid |Rodrigo Batal Fernández
-|https://github.com/rodrigobatalfernandez/Taller-Python
+|Intento de Arkanoid |Rodrigo Batal Fernández |https://github.com/rodrigobatalfernandez/Taller-Python
 
-|Organizador de tiempo |Sara Sendarrubias
-|https://github.com/s5en4c/ETSIDI.py
+|Organizador de tiempo |Sara Sendarrubias |https://github.com/s5en4c/ETSIDI.py
 
-|Escáner OCR con Tesseract |Pepe Castellanos
-|https://github.com/vuycwneovre/OCR-scanner
+|Escáner OCR con Tesseract |Pepe Castellanos |https://github.com/vuycwneovre/OCR-scanner
 
 |Seguimiento de acciones de un colectivo (como un programa de GMAO) |Echedey Luis Álvarez | https://github.com/echedey-luis-alvarez/ETSIDI.py---SRG-Seguimiento
 
@@ -105,10 +100,14 @@ ubicación elegida |Martin A. Reigadas T.
 
 |Foto-organizador |Javier Pío González Alday |https://github.com/JPioGA/Taller_Python_ETSIDI
 
-|Valoración ACB sobre jugadores de la NBA |Salvador González Arranz | (en local)
+|Valoración ACB sobre jugadores de la NBA |Salvador González Arranz |(en local)
 
 |Juego gomoku implementado en Discord |Miguel Chen Zheng |https://github.com/miguelchenzheng/gomybot
 
 |Verificación de ciclos de curado de resinas |Miguel Ángel Ruiz Gago |https://github.com/1991MiguelAngel
+
+|Juego de acción| Amélie |(en local)
+
+|Generador de palabras diarias | Beatriz |(en local)
 
 |===
