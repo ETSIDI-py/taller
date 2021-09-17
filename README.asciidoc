@@ -1,5 +1,36 @@
 image:logo.png[alt text,title="Logo"]
 
+== Taller 2021-09
+
+Colección de repositorios de los proyectos del taller de septiembre 2021
+
+[width="100%",cols="42%,^33%,>25%",options="header",]
+|===
+|Descrpición |Autor(a) |Enlace
+|Proyecto de mostrar en navegador los datos de posición solar en la
+ubicación elegida |Martin A. Reigadas T.
+|https://github.com/martinrteran/Taller_Python3
+
+|Intento (triste) de Arkanoid |Rodrigo Batal Fernández
+|https://github.com/rodrigobatalfernandez/Taller-Python
+
+|Organizador de tiempo |Sara Sendarrubias
+|https://github.com/s5en4c/ETSIDI.py
+
+|Escáner OCR con Tesseract |Pepe Castellanos
+|https://github.com/vuycwneovre/OCR-scanner
+
+| | |
+
+| | |
+
+| | |
+
+| | |
+
+| | |
+|===
+
 = ETSIDI.py
 :sectnums:
 
