@@ -35,7 +35,8 @@ for C programmers]
 . https://inventwithpython.com/#automate[Varios libros de Python (gratuitos) con proyectitos interesantes]
 . https://github.com/geekcomputers/Python[Lista variada de proyectos]
 . https://streamlit.io/gallery?category=sports-fun[Lista proyectos con web GUI - Streamlit]
-
+. https://learnbyexample.github.io/practice_python_projects/[Libro online con 4 proyectitos interesantes]
+ 
 === Ejemplos proyectos
 . http://norvig.com/sudoku.html[Solucionador de Sudokus]
 . https://lornajane.net/posts/2020/make-thumbnails-of-pdf-pages-with-imagemagick[Genera thumbnails de pdf]
