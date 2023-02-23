@@ -79,7 +79,7 @@ for C programmers]
 . https://streamlit.io/[Streamlit]
 . https://replit.com/[repl.it]
 
-== Taller 2021-09
+== Taller Sep 21
 
 Colección de repositorios de algunos proyectos del taller de septiembre 2021
 
