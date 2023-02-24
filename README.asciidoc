@@ -4,9 +4,9 @@ image:logo.png[alt text,title="Logo"]
 :sectnums:
 
 |===
-|Plataforma (tutorial) |Pizarra (compartir texto y código) |Chuletas
+|Plataforma (intro y tutorial) |Pizarra (compartir texto y código) |Chuletas
 
-|https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/master?urlpath=lab/tree/demo[Jupyter] (en servidor remoto)
+|https://colab.research.google.com/github/ETSIDI-py/taller/blob/main/intro.ipynb[Jupyter en Google Colab] o https://mybinder.org/v2/gh/ETSIDI-py/taller/HEAD?labpath=intro.ipynb[Jupyter en Binder]
 |https://board.net/p/etsidi.py[Board]
 |link:python_cheat_sheet%20%20by%20Arianne%20Colton%20and%20Sean%20Chen.pdf[Python] +
 link:++python pep8_cheatsheet.pdf++[Estilo código (PEP-8)]
