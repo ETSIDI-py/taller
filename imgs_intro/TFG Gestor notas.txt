@@ -1,0 +1,3 @@
+- Permitir comparar listas: apolo, moodle,....
+- Introducir notas
+- Buscar alumno rapidamente
