@@ -9,7 +9,7 @@ image:logo.png[alt text,title="Logo"]
 |image:https://colab.research.google.com/assets/colab-badge.svg[Google Colab, link=https://colab.research.google.com/github/ETSIDI-py/taller/blob/main/intro.ipynb] image:https://mybinder.org/badge_logo.svg[Binder, link=https://mybinder.org/v2/gh/ETSIDI-py/taller/HEAD?labpath=intro.ipynb]
 |image:https://colab.research.google.com/assets/colab-badge.svg[Google Colab, link=https://colab.research.google.com/github/ETSIDI-py/taller/blob/main/tutorial.ipynb] image:https://mybinder.org/badge_logo.svg[Binder, link=https://mybinder.org/v2/gh/ETSIDI-py/taller/HEAD?labpath=tutorial.ipynb]
 |image:imgs/pizarra.svg[Board, link=https://board.net/p/etsidi.py]
-|- link:python_cheat_sheet%20%20by%20Arianne%20Colton%20and%20Sean%20Chen.pdf[Python, window=read-later] +
+|- link:python_cheat_sheet%20%20by%20Arianne%20Colton%20and%20Sean%20Chen.pdf[Python, window=_blank] +
 - link:++python pep8_cheatsheet.pdf++[Estilo]
 |https://github.com/rubennj/python-info[Glosario+recursos]
 |===
