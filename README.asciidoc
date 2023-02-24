@@ -16,10 +16,11 @@ link:++python pep8_cheatsheet.pdf++[Estilo código (PEP-8)]
 //|https://mybinder.org/v2/gh/ETSIDI-py/taller/HEAD[Intro+Tutorial]
 
 == Instrucciones pre-taller
-. Crear cuenta y un repositorio para el proyecto, p. ej. en https://github.com/[GitHub] o cualquier otro con el que te sientas cómod@.
-. Instalar un cliente git, p. ej. https://desktop.github.com/[GitHub Desktop] o cualquier otro con el que te sientas cómod@.
-. Instalar un entorno Python mediante https://github.com/isi-ies-group/python-info#miniconda[miniconda] o cualquier otro con el que te sientas cómod@.
-. Instalar algún IDE, p. ej. https://github.com/isi-ies-group/python-info#ide---spyder[Spyder] o cualquier otro con el que te sientas cómod@.
+. Instalar un entorno Python mediante https://docs.conda.io/en/latest/miniconda.html[miniconda] o cualquier otro con el que te sientas cómod@.
+. Instalar algún IDE (Entorno de desarrollo integrado), p. ej. https://www.spyder-ide.org/[Spyder] o cualquier otro con el que te sientas cómod@ (Visual Studio Code, PyCharm, Notepad++, ...).
+. Preparar repositorio donde alojar el proyecto
+.. Usar (o crear) cuenta y un repositorio para el proyecto, p. ej. en https://github.com/[GitHub] o cualquier otro con el que te sientas cómod@.
+.. Instalar en el ordenador un cliente para manejar el repositorio, p. ej. https://desktop.github.com/[GitHub Desktop] o cualquier otro con el que te sientas cómod@.
 
 ////
 == Recursos taller
@@ -75,11 +76,16 @@ for C programmers]
 . https://github.com/isi-ies-group/python-info#argparse[línea de comnados - CLI]
 
 === Implantación online
-. https://realpython.com/flask-by-example-part-1-project-setup/[Heroku - ejemplo Flask]
+. https://realpython.com/flask-by-example-part-1-project-setup/[Heroku - ejemplo Flask - Ya no es gratuito]
 . https://streamlit.io/[Streamlit]
 . https://replit.com/[repl.it]
+. https://www.koyeb.com/[Koyeb]
+. https://qoddi.com/[Qoddi]
 
-== Taller Sep 21
+=== App movil
+. Kivy
+
+= Proyectos 1ª ed.
 
 Colección de repositorios de algunos proyectos del taller de septiembre 2021
 
