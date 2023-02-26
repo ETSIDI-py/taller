@@ -81,7 +81,7 @@ for C programmers]
 . https://qoddi.com/[Qoddi]
 
 === App movil
-. Kivy
+. https://kivy.org/[Kivy]
 
 = Proyectos 1ª ed.
 
