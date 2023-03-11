@@ -83,10 +83,33 @@ for C programmers]
 === App movil
 . https://kivy.org/[Kivy]
 
+= Proyectos 2ª ed.
+Colección de repositorios de algunos proyectos del taller de febrero 2023
+[width="100%",cols="42%,^33%,>25%",options="header",]
+|===
+|Descrpición |Autor(a) |Enlace
+|Proyecto de mostrar en navegador los datos de posición solar en la ubicación elegida |Martin A. Reigadas T. |https://github.com/martinrteran/Taller_Python3
+|Intento de Arkanoid |Rodrigo Batal Fernández |https://github.com/rodrigobatalfernandez/Taller-Python
+|Moving fractals	|Cristina De la Paz Cotillas	|https://github.com/crissaitama/Taller_Python
+|Arcade Pygames	Diego Maria Descalzo Fankhauser	|en local
+|Coach Assistant LaLiga |Inés Portilla de Birazel	|https://github.com/InesPortilla/ETSIDI.py
+|Registro de clientas	|Laura Esther Moreno Blas	|https://github.com/LauraEstherMB/Registro
+|Debate turn helper |Leonel Alejandro Aguilera Correia	|https://github.com/LeonelAguilera/TallerPython
+|Visualizador de telemetría de F1 |Maximino Benito	|https://github.com/luismaxb/F1telemetria
+|Moving fractals	|Miriam Valero Cuadrado	|https://github.com/crissaitama/Taller_Python
+|Aplicación móvil lista de la compra	|Patricia Quiñones de la Fuente	en local
+|Control Scalextric |Raúl Chamorro Carrasco	|https://github.com/rchamo01/control_scalextric
+|Calculadora de solubilidad |Samuel Cerro Hernández	|https://github.com/SamuCHdez/Python_etsidi
+|Conversor factura PDF a Excel |Sani Mitkov Chandarov	|en local
+|Info NBA	|Susana González Miguel	|https://github.com/susanagonzalezmiguel/Info
+|Aplicación de traducción de lenguaje desde imagen |Valentín Martínez López	|en local
+|Mejora al botón "shuffle" de Spotify	|Virginia Martin Herrera	|en local
+
+
+|===
+
 = Proyectos 1ª ed.
-
 Colección de repositorios de algunos proyectos del taller de septiembre 2021
-
 [width="100%",cols="42%,^33%,>25%",options="header",]
 |===
 |Descrpición |Autor(a) |Enlace
