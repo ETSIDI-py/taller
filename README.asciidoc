@@ -91,7 +91,7 @@ Colección de repositorios de algunos proyectos del taller
 |Moving fractals	|Cristina De la Paz Cotillas	|https://github.com/crissaitama/Taller_Python
 |Arcade Pygames	|Diego Maria Descalzo Fankhauser	|en local
 |Coach Assistant LaLiga |Inés Portilla de Birazel	|https://github.com/InesPortilla/ETSIDI.py
-|Registro de clientas	|Laura Esther Moreno Blas	|https://github.com/LauraEstherMB/Registro
+|Registro de clientas	|Laura Esther Moreno Blas	|https://github.com/LauraEstherMB/Registro-de-Clientas
 |Debate turn helper |Leonel Alejandro Aguilera Correia	|https://github.com/LeonelAguilera/TallerPython
 |Visualizador de telemetría de F1 |Maximino Benito	|https://github.com/luismaxb/F1telemetria
 |Moving fractals	|Miriam Valero Cuadrado	|https://github.com/crissaitama/Taller_Python
@@ -99,7 +99,7 @@ Colección de repositorios de algunos proyectos del taller
 |Control Scalextric |Raúl Chamorro Carrasco	|https://github.com/rchamo01/control_scalextric
 |Calculadora de solubilidad |Samuel Cerro Hernández	|https://github.com/SamuCHdez/Python_etsidi
 |Conversor factura PDF a Excel |Sani Mitkov Chandarov	|en local
-|Info NBA	|Susana González Miguel	|https://github.com/susanagonzalezmiguel/Info
+|Info NBA	|Susana González Miguel	|https://github.com/susanagonzalezmiguel/Info-NBA
 |Aplicación de traducción de lenguaje desde imagen |Valentín Martínez López	|en local
 |Mejora al botón "shuffle" de Spotify	|Virginia Martin Herrera	|en local
 |===
