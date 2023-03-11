@@ -95,7 +95,7 @@ Colección de repositorios de algunos proyectos del taller
 |Debate turn helper |Leonel Alejandro Aguilera Correia	|https://github.com/LeonelAguilera/TallerPython
 |Visualizador de telemetría de F1 |Maximino Benito	|https://github.com/luismaxb/F1telemetria
 |Moving fractals	|Miriam Valero Cuadrado	|https://github.com/crissaitama/Taller_Python
-|Aplicación móvil lista de la compra	|Patricia Quiñones de la Fuente	en local
+|Aplicación móvil lista de la compra	|Patricia Quiñones de la Fuente	|en local
 |Control Scalextric |Raúl Chamorro Carrasco	|https://github.com/rchamo01/control_scalextric
 |Calculadora de solubilidad |Samuel Cerro Hernández	|https://github.com/SamuCHdez/Python_etsidi
 |Conversor factura PDF a Excel |Sani Mitkov Chandarov	|en local
