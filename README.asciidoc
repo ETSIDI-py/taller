@@ -39,6 +39,7 @@ for C programmers]
 . https://github.com/geekcomputers/Python[Lista variada de proyectos]
 . https://streamlit.io/gallery?category=sports-fun[Lista proyectos con web GUI - Streamlit]
 . https://learnbyexample.github.io/practice_python_projects/[Libro online con 4 proyectitos interesantes]
+. https://www.geeksforgeeks.org/python-projects-beginner-to-advanced/[Larga lista de proyectos con diferentes grados de complejidad]
  
 === Ejemplos proyectos
 . http://norvig.com/sudoku.html[Solucionador de Sudokus]
