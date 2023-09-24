@@ -102,8 +102,9 @@ Colección de repositorios de algunos proyectos del taller
 |Agenda de tareas |Elena |https://github.com/elewood0510/Organizador-de-tareas
 |Juego de Cartas |Fernando G. |(en local)
 |Wordle |Pilar |(en local)
-|Reconocimiento facial para dron |Fernando C. |(en local)
+|Reconocimiento facial para dron |Fernando C. |https://github.com/N4ndoferC/proyecto_python
 |Top 60 aeropuertos por toneladas de mercancía |Marcela |https://github.com/GMSJ2997/Taller-Python-ETSIDI
+|Bot de discord que reaccione a texto |Pedro |https://github.com/PedroLeon00/Discordcoptero
 |===
 
 = Proyectos 2ª ed. [febrero 2023]
