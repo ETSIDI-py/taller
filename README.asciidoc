@@ -14,12 +14,12 @@ image:logo.png[alt text,title="Logo"]
 |===
 
 == Instrucciones pre-taller
-. Instalar un entorno Python mediante https://docs.conda.io/en/latest/miniconda.html[miniconda] o cualquier otro con el que te sientas cómod@.
-. Instalar algún IDE (Entorno de desarrollo integrado), p. ej. Spyder (ver pasos a continuación) o cualquier otro con el que te sientas cómod@ (Visual Studio Code, PyCharm, Notepad++, ...).
-.. Abrir Anaconda Prompt (miniconda3)
+. Instalar algún IDE (Entorno de desarrollo integrado), p. ej. https://thonny.org/[Thonny] o cualquier otro con el que te sientas cómod@ (Spyder, Visual Studio Code, PyCharm, Notepad++, ...).
+.. Si el IDE no incluye entorno Python (Thonny SÍ incluye) instalarlo mediante https://docs.conda.io/en/latest/miniconda.html[miniconda] o cualquier otro con el que te sientas cómod@.
+//.. Abrir Anaconda Prompt (miniconda3)
 //.. Ejecutar ``conda config --add channels conda-forge`` # da error con las versiones a 2023-09
-.. Ejecutar ``conda update conda``
-.. Ejecutar ``conda install spyder``
+//.. Ejecutar ``conda update conda``
+//.. Ejecutar ``conda install spyder``
 . Preparar repositorio donde alojar el proyecto
 .. Usar (o crear) cuenta y un repositorio para el proyecto, p. ej. en https://github.com/[GitHub] o cualquier otro con el que te sientas cómod@.
 .. Instalar en el ordenador un cliente para manejar el repositorio, p. ej. https://desktop.github.com/[GitHub Desktop] o cualquier otro con el que te sientas cómod@.
