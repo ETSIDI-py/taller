@@ -16,6 +16,7 @@ image:logo.png[alt text,title="Logo"]
 == Instrucciones pre-taller
 . Instalar algún IDE (Entorno de desarrollo integrado), p. ej. https://thonny.org/[Thonny] o cualquier otro con el que te sientas cómod@: https://www.spyder-ide.org/[Spyder], https://code.visualstudio.com/[Visual Studio Code], https://www.jetbrains.com/es-es/pycharm/[PyCharm], https://notepad-plus-plus.org/[Notepad++], ...).
 .. Si el IDE no incluye entorno Python (Thonny SÍ incluye) instalarlo mediante https://docs.conda.io/en/latest/miniconda.html[miniconda] o cualquier otro con el que te sientas cómod@.
+.. Asegurarse de que el IDE conecta con el entorno Python y que se pueden instalar paquetes en dicho entorno.
 //.. Abrir Anaconda Prompt (miniconda3)
 //.. Ejecutar ``conda config --add channels conda-forge`` # da error con las versiones a 2023-09
 //.. Ejecutar ``conda update conda``
