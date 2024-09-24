@@ -88,6 +88,21 @@ for C programmers]
 === App movil (complicado en 2023)
 . https://kivy.org/[Kivy]
 
+= Proyectos 4ª ed. [septiembre 2024]
+Colección de repositorios de algunos proyectos del taller
+[width="100%",cols="42%,^33%,>25%",options="header",]
+|===
+|Descrpición |Autor(a) |Enlace
+|Juego de captura de objetos con OpenCV e interfaz gráfica de Streamlit |Mario |https://bitbucket.org/mariogsc/tallerpython
+|Interfaz para la anotación de un partido de baloncesto |Juliana |https://github.com/julii05/app-fbm
+|Inicio de suscripción a Newsletter de aviación con API AviationStack e interfaz gráfica de Streamlit |Ian |https://github.com/Erin2231/proyecto_taller_arduino_2024
+|Análisis de una serie de archivos excel de mi consumo eléctrico con pandas y uso de la interfaz gráfica de Streamlit |Héctor |https://github.com/SrGordoH/Analisis_consumo
+|Clima por Horas Durante el Viaje introduciendo ciudad y fechas de inicio y final de viaje |Pablo |https://github.com/Pablomunozmoreno/TALLER-PYTHON
+|Agenda tareas con prioridades |Yasmín |https://github.com/yulpa32/Agenda
+|Analizador de sentimientos de comentarios de Youtube |Sara |https://github.com/SaraKhS/Python-miniProject
+|Estimador puntos maná del juego Magic |Javier |(en local)
+|===
+
 = Proyectos 3ª ed. [septiembre 2023]
 Colección de repositorios de algunos proyectos del taller
 [width="100%",cols="42%,^33%,>25%",options="header",]
