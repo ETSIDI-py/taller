@@ -81,6 +81,7 @@ for C programmers]
 
 === Implantación online
 . https://realpython.com/flask-by-example-part-1-project-setup/[Heroku - ejemplo Flask - Ya no es gratuito]
+. https://pyscript.net/[PyScript - Corre Python en web]
 . https://streamlit.io/[Streamlit]
 . https://replit.com/[repl.it]
 . https://www.koyeb.com/[Koyeb]
