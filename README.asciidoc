@@ -3,7 +3,6 @@ image:logo.png[alt text,title="Logo"]
 = ETSIDI.py
 :sectnums:
 
-////
 |===
 |Tutorial |Pizarra (compartir texto y código) |Chuletas |Información Pyhon
 
@@ -13,7 +12,6 @@ image:logo.png[alt text,title="Logo"]
 - link:++python pep8_cheatsheet.pdf++[Estilo]
 |https://github.com/rubennj/python-info[Glosario+recursos]
 |===
-////
 
 == Instrucciones pre-taller
 . Instalar algún IDE (Entorno de desarrollo integrado), p. ej. https://thonny.org/[Thonny] o cualquier otro con el que te sientas cómod@: https://www.spyder-ide.org/[Spyder], https://code.visualstudio.com/[Visual Studio Code], https://www.jetbrains.com/es-es/pycharm/[PyCharm], https://notepad-plus-plus.org/[Notepad++], ...).
