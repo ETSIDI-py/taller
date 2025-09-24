@@ -91,6 +91,21 @@ for C programmers]
 === App movil (complicado en 2023)
 . https://kivy.org/[Kivy]
 
+= Proyectos 5ª ed. [septiembre 2025]
+Colección de repositorios de algunos proyectos del taller
+[width="100%",cols="42%,^33%,>25%",options="header",]
+|===
+|Descrpición |Autor(a) |Enlace
+|Buscador de información de películas |Yeray |https://github.com/yerayortegacastro/Film_Info_Finder
+|Simulador de un sistema de osciladores acoplados |José Germán |https://github.com/JoseCoque06/Taller-Python/tree/coupled_harmonic_oscillator
+|Fate GO constructor de equipos |Elena |https://github.com/Anele3/fate-go-team-builder
+|Juego del ahorcado con definiciones |Belén |https://github.com/belenhuertas1/Juego-ahorcado
+|Juego de blackjack |Marcos |https://github.com/mparedesb07/Taller-de-python
+|Ruleta de la suerte |Nieves |https://github.com/NiPeGo/ruleta-suerte
+|Asistente de Riego |Marcos |https://github.com/marcosgala/Asistente-plantacion/
+|Test Cognitivo basado en el MoCA |Alicia |https://github.com/AliciaMH03/Test-Cognitivo
+|===
+
 = Proyectos 4ª ed. [septiembre 2024]
 Colección de repositorios de algunos proyectos del taller
 [width="100%",cols="42%,^33%,>25%",options="header",]
